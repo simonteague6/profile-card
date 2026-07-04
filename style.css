@@ -26,3 +26,10 @@ h1 {
   font-size: 1.5rem;
   color: #1a1a2e;
 }
+
+.bio {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.6;
+  margin-top: 0.75rem;
+}
