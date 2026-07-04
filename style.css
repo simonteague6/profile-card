@@ -33,3 +33,9 @@ h1 {
   line-height: 1.6;
   margin-top: 0.75rem;
 }
+
+.goals {
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 0.5rem;
+}
